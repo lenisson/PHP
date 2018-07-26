@@ -2,7 +2,7 @@
 
 echo "My first code! <strong>Hello World</strong>";
 
-echo"diferente";
+echo"mudado";
 
 ?>
 
